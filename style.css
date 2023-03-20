@@ -1,0 +1,23 @@
+.die {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: azure;
+    height: 3em;
+    width: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+
+#grid {
+    background-color: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+}
